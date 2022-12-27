@@ -11,6 +11,12 @@
 - 💬 Ask me about my retro Macintosh collection<br>
 - 📫 How to reach me: via <a href="mailto:miles@milesacq.com">email</a> <br>
 </p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=link5669&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=link5669&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<h1>My favorite technologies 🛠: 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -29,7 +35,3 @@
 
 
 </div>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=link5669&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?link5669&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
