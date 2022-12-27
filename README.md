@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/B6IBrYTyvo1UJOXF9u/giphy.gif" width="100"/>
 </div>
-<h1> Hi there 👋<h1>
+<h1> Hi there 👋</h1>
 
 <!--
 **link5669/link5669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
