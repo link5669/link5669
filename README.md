@@ -2,7 +2,7 @@
 
 <p>
 - 🔭 I’m currently working on a social media network for creatives <br>
-- 🌱 I’m currently improving my React and GraphQL skillsfrom University of Helsinki's Fullstack Open course<br>
+- 🌱 I’m currently improving my React and GraphQL skills from University of Helsinki's Fullstack Open course<br>
 - 👯 I’m looking to collaborate on anything! Send me an email!<br>
 - 💬 Ask me about my retro Macintosh collection<br>
 - 📫 How to reach me: via <a href="mailto:miles@milesacq.com">email</a> <br>
