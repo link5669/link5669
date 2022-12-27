@@ -12,7 +12,7 @@
 - 🌱 I’m currently improving my React and GraphQL skillsfrom University of Helsinki's Fullstack Open course<br>
 - 👯 I’m looking to collaborate on anything! Send me an email!<br>
 - 💬 Ask me about my retro Macintosh collection<br>
-- 📫 How to reach me: via [email](mailto:miles@milesacq.com) <br>
+- 📫 How to reach me: via <a href="mailto:miles@milesacq.com">email</a> <br>
 </p>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
