@@ -1,10 +1,10 @@
 <h1> Hi there 👋</h1>
 
 <p>
-- 🔭 I’m currently working on a social media network for creatives <br>
+- 🔭 I’m currently working on an IRL social media network <br>
 - 🌱 I’m currently improving my React and GraphQL skills from University of Helsinki's Fullstack Open course<br>
 - 👯 I’m looking to collaborate on anything! Send me an email!<br>
-- 💬 Ask me about my retro Macintosh collection<br>
+- 💬 Ask me about my retro Macintoshes <br>
 - 📫 How to reach me: via <a href="mailto:miles@milesacq.com">email</a> <br>
 </p>
 
