@@ -5,7 +5,7 @@
 - 🌱 I’m currently improving my x86 reverse engineering skills<br>
 - 👯 I’m looking to collaborate on anything! Send me an email!<br>
 - 💬 Ask me about my retro Macintoshes <br>
-- 📫 How to reach me: via <a href="mailto:miles@milesacq.com">email</a> <br>
+- 📫 How to reach me: via <a href="mailto:miles@milesacq.com">email</a> or on Discord: m.acq <br>
 </p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=link5669&theme=dark&background=000000)](https://git.io/streak-stats)
